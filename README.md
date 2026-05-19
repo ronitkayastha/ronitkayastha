@@ -1,8 +1,8 @@
 # Hi there, I'm Ronit Kayastha 👋
 
-## 🌊 Water Resource | Civil Engineer | Construction & Design Professional
+## 🌊 Water Resource Engineer | Civil Engineer
 
-I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4.00) with **7+ years of professional experience** spanning **hydrology and hydraulic analysis**, **construction supervision**, and **project management** for water infrastructure and hydropower projects. 
+I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4.00) with **7+ years of professional experience** spanning **civil infrastructure design**, **hydrology and hydraulic analysis**, **Water Resource Management**, **construction supervision**, and **project management** for water infrastructure and hydropower projects. 
 
 ---
 
@@ -54,85 +54,30 @@ I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4
 ## 🛠️ Technical Skills & Expertise
 
 ### 🏗️ Civil Engineering Design & Analysis
-![HEC-RAS](https://img.shields.io/badge/HEC-RAS-green)
-![HEC-HMS](https://img.shields.io/badge/HEC-HMS-green)
+![HEC-RAS](https://img.shields.io/badge/HECRAS-green)
+![HEC-HMS](https://img.shields.io/badge/HECHMS-green)
 ![SWMM](https://img.shields.io/badge/SWMM-green)
+![HY8](https://img.shields.io/badge/HY8-green)
+![TR55](https://img.shields.io/badge/TR55-green)
+![HYTRAN](https://img.shields.io/badge/HYTRAN-green)
+![HAMMER](https://img.shields.io/badge/HAMMER-green)
 ![SAP2000](https://img.shields.io/badge/SAP2000-orange)
 ![ETABS](https://img.shields.io/badge/ETABS-orange)
 
-**Hydraulic & Hydrologic Systems:**
-- Dam design, spillways, and reservoir analysis
-- Conveyance systems (pipelines, tunnels, culverts)
-- Stormwater management and drainage design
-- Dam-break and flood hazard analysis
-- Sediment transport and erosion control
-
-**Structural Engineering:**
-- Reinforced concrete design for hydropower structures
-- Structural analysis using SAP2000 and ETABS
-- Foundation design and retaining structures
-- Powerhouse and intake structure design
-
-### 🚧 Construction Management & BIM
+### 🖥️  CAD & BIM Tools
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autodesk)
+![Civil3D](https://img.shields.io/badge/Civil%203D-0696D7?logo=autodesk)
+![Revit](https://img.shields.io/badge/Revit-0696D7?logo=autodesk)
 ![MS Project](https://img.shields.io/badge/MS%20Project-Project%20Mgmt-green)
 ![Navisworks](https://img.shields.io/badge/Navisworks-BIM-blue)
 ![SYNCHRO](https://img.shields.io/badge/SYNCHRO%20Pro-4D%20Planning-purple)
 
-**Construction Supervision:**
-- Site supervision and quality control/quality assurance (QC/QA)
-- Concrete testing and material compliance verification
-- Layout surveying and level verification
-- Construction documentation and as-built drawings
-- Safety compliance and risk management
-
-**Project Delivery:**
-- Full project lifecycle management (planning → closeout)
-- Quantity takeoff and cost estimation
-- Bid document and tender preparation
-- Contractor coordination and client communication
-- Payment certification and contract administration
-
 ### 💻 Programming & Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Orange?logo=matlab)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
-**Applications:**
-- Hydrological data processing and statistical analysis
-- Automated workflows for water resource assessments
-- Performance metrics (KGE, NSE, RMSE, PBIAS)
-- Time series analysis and peak flow detection
 
 ### 🗺️ GIS & Geospatial Analysis
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-Expert-2C7AC3)
-![ArcPy](https://img.shields.io/badge/ArcPy-Scripting-2C7AC3)
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-Proficient-green)
-
-**Capabilities:**
-- Watershed delineation and catchment analysis
-- Spatial interpolation and terrain modeling
-- Hydrographic network analysis (NHDPlus)
-- Automated geospatial workflows using Python
-
-### 🖥️ CAD & BIM Tools
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autodesk)
-![Civil3D](https://img.shields.io/badge/Civil%203D-0696D7?logo=autodesk)
-![Revit](https://img.shields.io/badge/Revit-0696D7?logo=autodesk)
-
-**Design Deliverables:**
-- 3D modeling of civil infrastructure
-- Construction drawings and reinforcement detailing
-- Site grading and earthwork analysis
-- Clash detection and coordination (Navisworks)
-- Highway and transportation design (SYNCHRO Pro)
-
-### 🌊 Specialized Tools
-- **Stormwater:** SWMM, HY-8, TR-55
-- **Water Distribution:** OpenFlows HAMMER, HYTRAN
-- **Surveying:** Total station, GPS, level instruments
-- **Project Management:** MS Project, MS Office Suite
 
 ---
 
