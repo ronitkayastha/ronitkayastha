@@ -2,7 +2,7 @@
 
 ## 🌊 Water Resource Engineer | Civil Engineer
 
-I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4.00) with **7+ years of professional experience** spanning **civil infrastructure design**, **hydrology and hydraulic analysis**, **Water Resource Management**, **construction supervision**, and **project management** for water infrastructure and hydropower projects. 
+I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4.00) with **7+ years of professional experience** in **civil infrastructure design**, **construction supervision**, and **project management**. My expertise spans **hydraulic analysis**, **hydrological modeling**, and **water resource management** for hydropower and water infrastructure projects.
 
 ---
 
@@ -25,27 +25,27 @@ I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4
 
 ### 🏢 Experience Highlights
 
-**Graduate Research/Teaching Assistant** @ Oklahoma State University (2025-Present)
-- Advanced research in hydrological modeling and water resource management
-- Support undergraduate coursework in hydraulics and water resources
+**Graduate Research/Teaching Assistant** @ Oklahoma State University (January 2025 - Present)
+- Conducted literature reviews, collected and analyzed data, and synthesized findings to support research objectives on assigned topics
+- Support undergraduate coursework through grading, clarifying concepts, and assisting students. 
 
-**Civil Design Coordinator** @ Hydroplan Engineering (2023-2024)
+**Civil Design Coordinator** @ Hydroplan Engineering and Consulting (August 2023 - June 2024)
 - Led design teams for hydropower rehabilitation and new construction projects
-- Reduced design errors through advanced 3D CAD modeling and coordination
+- Reduced design errors through 3D CAD modeling and coordination
 - Mentored junior engineers on hydraulic analysis and design standards
 
-**Civil Engineer** @ Urja Engineering (2021-2023)
+**Civil Engineer** @ Urja Engineering and Management Solutions (November 2021 - August 2023)
 - Delivered end-to-end project solutions from concept to procurement
 - Specialized in HEC-RAS dam-break analysis for safety assessments
 - Managed cost estimation and tender document preparation
 
-**Civil Engineer** @ NEA Engineering (2019-2021)
+**Civil Engineer** @ NEA Engineering (December 2019 - November 2021)
 - Optimized layouts using integrated hydrology and sediment analysis
 - Coordinated stakeholder relations and ensured regulatory compliance
 - Prepared bid documents and certified contractor payments
 
-**Field Engineer/Civil Engineer** @ Hydro Consult Engineering (2016-2019)
-- Supervised construction of hydropower facilities from foundation to commissioning
+**Field Engineer/Civil Engineer** @ Hydro Consult Engineering (October 2016 - December 2019)
+- Supervised construction of hydropower facilities
 - Conducted quality assurance through concrete testing and survey verification
 - Produced reinforcement drawings and quantity takeoffs for cost control
 
