@@ -1,8 +1,8 @@
 # Hi there, I'm Ronit Kayastha 👋
 
-## 🌊 Water Resources & Civil Engineer | Graduate Researcher
+## 🌊 Water Resource | Civil Engineer | Construction & Design Professional
 
-I'm a Master's student in Civil Engineering at Oklahoma State University with expertise in **hydrological modeling**, **hydraulic analysis**, and **water resource management**. I specialize in data-driven approaches to solve complex water infrastructure challenges.
+I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4.00) with **7+ years of professional experience** spanning **hydrology and hydraulic analysis**, **construction supervision**, and **project management** for water infrastructure and hydropower projects. 
 
 ---
 
@@ -25,6 +25,10 @@ I'm a Master's student in Civil Engineering at Oklahoma State University with ex
 
 ### 🏢 Experience Highlights
 
+**Graduate Research/Teaching Assistant** @ Oklahoma State University (2025-Present)
+- Advanced research in hydrological modeling and water resource management
+- Support undergraduate coursework in hydraulics and water resources
+
 **Civil Design Coordinator** @ Hydroplan Engineering (2023-2024)
 - Led design teams for hydropower rehabilitation and new construction projects
 - Reduced design errors through advanced 3D CAD modeling and coordination
@@ -45,20 +49,16 @@ I'm a Master's student in Civil Engineering at Oklahoma State University with ex
 - Conducted quality assurance through concrete testing and survey verification
 - Produced reinforcement drawings and quantity takeoffs for cost control
 
-**Graduate Research/Teaching Assistant** @ Oklahoma State University (2025-Present)
-- Advanced research in hydrological modeling and water resource management
-- Support undergraduate coursework in hydraulics and water resources
-
 ---
 
 ## 🛠️ Technical Skills & Expertise
 
 ### 🏗️ Civil Engineering Design & Analysis
-![HEC-RAS](https://img.shields.io/badge/HEC--Proficient-green)
-![HEC-HMS](https://img.shields.io/badge/HEC--Proficient-green)
-![SWMM](https://img.shields.io/badge/SWMM-Proficient-green)
-![SAP2000](https://img.shields.io/badge/SAP2000-Structural-orange)
-![ETABS](https://img.shields.io/badge/ETABS-Structural-orange)
+![HEC-RAS](https://img.shields.io/badge/HEC-RAS-green)
+![HEC-HMS](https://img.shields.io/badge/HEC-HMS-green)
+![SWMM](https://img.shields.io/badge/SWMM-green)
+![SAP2000](https://img.shields.io/badge/SAP2000-orange)
+![ETABS](https://img.shields.io/badge/ETABS-orange)
 
 **Hydraulic & Hydrologic Systems:**
 - Dam design, spillways, and reservoir analysis
