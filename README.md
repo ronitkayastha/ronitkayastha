@@ -2,7 +2,7 @@
 
 ## 🌊 Water Resource Engineer | Civil Engineer
 
-I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4.00) 7+ years of international experience in water resources and hydropower engineering across **Nepal** and the **United Kingdom**. Proven expertise in **hydrology and hydraulics analysis**, **team leadership**, managing infrastructure projects from planning through construction with strong **project coordination** and **quality assurance capabilities**.
+I'm a Master's student in Civil Engineering at Oklahoma State University (GPA: 4.00) with 7+ years of international experience in water resources and hydropower engineering across **Nepal** and the **United Kingdom**. Proven expertise in **hydrology and hydraulics analysis**, **team leadership**, managing infrastructure projects from planning through construction with strong **project coordination** and **quality assurance capabilities**.
 
 ---
 
